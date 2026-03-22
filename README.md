@@ -20,8 +20,8 @@ This project demonstrates how to handle multiple client connections, message bro
 ### Run the application with the Terminal
 1. This project contains two console applications:
 
-server → to start the broadcast server
-client → to connect as a client
+- server → to start the broadcast server
+- client → to connect as a client
 
 Open a terminal and navigate to the corresponding folder depending on what you want to run.
 
